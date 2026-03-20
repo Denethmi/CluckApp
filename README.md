@@ -1,0 +1,1 @@
+Cluck is a modern food assistant platform that transforms how people order food. It serves three main user groups: customers, restaurant managers, and delivery drivers. Each user group receives customized features designed to address their specific needs and challenges.
